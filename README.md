@@ -18,14 +18,14 @@ BA Speech-Language-Hearing Sciences, Loyola University Maryland
 
 #### Grade Calculator
  - ![GradeCalculator](assets/Screenshot 2025-12-03 at 11.40.40 AM.png)
- - This project was to make a grade calculator for two of my current classes. Using Excel, I was able to input all of my grades from the semester and how much they are each worth in order to get a predicted value for my final grade. 
+ This project was to make a grade calculator for two of my current classes. Using Excel, I was able to input all of my grades from the semester and how much they are each worth in order to get a predicted value for my final grade. 
 
 ***
 #### Budget Tracker
  - ![BudgetTracker](assets/Screenshot 2025-12-03 at 11.45.16 AM.png)
- - The objective of this project was to create a budget tracker in Excel. I researched different outboard boats for sale, and used Excel to assess the profit one would make in the buying or selling of these boats. 
+ The objective of this project was to create a budget tracker in Excel. I researched different outboard boats for sale, and used Excel to assess the profit one would make in the buying or selling of these boats. 
 
 ***
 #### Correlation
  - ![Correlation](assets/Screenshot 2025-12-03 at 12.11.48 PM.png)
- - Here, I used a given set of data regarding the relationship (or lack thereof) between temperature and the amount of times a cricket chirps. I was able to find that the data was significantly significant because there was a very small p-value. 
+ Here, I used a given set of data regarding the relationship (or lack thereof) between temperature and the amount of times a cricket chirps. I was able to find that the data was significantly significant because there was a very small p-value. 
